@@ -6,3 +6,7 @@ pets.unshift()
 function removeLast(array){
   array.pop();
 }
+
+function removeFirst(array){
+  array.shift();
+}
